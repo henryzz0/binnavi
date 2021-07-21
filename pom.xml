@@ -106,7 +106,7 @@
     <dependency>
       <groupId>net.sf.proguard</groupId>
       <artifactId>proguard-anttask</artifactId>
-      <version>5.2.1</version>
+      <version>5.3.3</version>
     </dependency>
 
     <dependency>
